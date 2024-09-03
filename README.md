@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Faith Kemboi, a recent Computer Science graduate from the University of North Carolina at Charlotte!
+## 👋 Hi, I’m Faith Kemboi!
+- 🎓 A recent Computer Science graduate from the University of North Carolina at Charlotte!
 - 👀 I’m interested in building tech solutions for social good and exploring the fascinating world of data in healthcare, finance, and tech.
 - 🌱 I’m currently learning advanced machine learning, cloud computing and how to conquer time management as a serial procrastinator.
 - 💞️ I’m looking to collaborate on data-driven projects and innovative solutions that leverage data to empower better decision-making and drive impactful outcomes. 
